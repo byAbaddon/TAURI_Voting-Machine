@@ -1,2 +1,3 @@
 # Voting-Machine
-soon
+## Voting machine simulator.
+### How it works: just follow the directions.
