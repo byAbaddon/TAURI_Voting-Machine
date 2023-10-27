@@ -1,3 +1,3 @@
-# Voting-Machine
-### Voting machine simulator.
-#### How it works: just follow the directions.
+# Voting Machine Simulator
+- How it works: just follow the directions.
+- Created with standard; html, css, js
