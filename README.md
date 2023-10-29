@@ -1,7 +1,9 @@
 # Voting Machine Simulator
-- How it works: just follow the directions.
 - Created with; html, css, js
 - Framework  Tauri
+
+## How it works:
+- just follow the directions.
 ## Short video intro:
 
 ### Images:
