@@ -14,7 +14,7 @@
 
 ### Download
 #### Created app with Tauri, test in Linux Arch.
-##### download apk file:
+##### download file: https://github.com/byAbaddon/TAURI_Voting-Machine/releases/tag/v1
 
 #### Year:
 2023
