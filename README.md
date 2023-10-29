@@ -28,3 +28,7 @@ By Abaddon
 | `yarn install` | Install project dependencies |
 | `yarn tauri dev ` | Build project and open web server running project |
 | `yarn tauri build` | Builds code bundle with production settings (minification, uglification, etc..) |
+
+
+### Prerequisites
+- [Tauri](https://tauri.app)
