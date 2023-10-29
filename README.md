@@ -4,7 +4,8 @@
 
 ## How it works:
 - just follow the directions.
-## Short video intro:
+## Short video intro: https://youtu.be/lrzYYyWTpio
+
 
 ### Images:
 ![1](https://github.com/byAbaddon/Voting-Machine/assets/51271834/f4ccb67c-4c11-41d3-98c3-32e1d69e0b01)
