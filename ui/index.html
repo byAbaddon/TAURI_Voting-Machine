@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="./style.css">
+  <title>Voting Machine Simulator</title>
+</head>
+
+<body>
+  <!-- Page 1 -->
+  <div class="container" id="page1" style="display: flex">
+    <img class="page" src="./images/page1.png" alt="img">
+    <p>Поставете картата</p>
+    <img class="card" src="./images/card.png" alt="card">
+  </div>
+
+  <!--  Page 2-->
+  <div class="container" id="page2">
+    <section class="title">
+      <h6>РАЙОН 320000000 000000034</h6>
+      <h3> Избори за кмет и общински паразити</h3>
+    </section>
+
+    <section class="frame">
+      <table class="table1">
+        <tr>
+          <td><span class="icon">&#9744;</span> <span class="icon2">&#49;</span>Иванчо</td>
+        </tr>
+        <tr>
+          <td><span class="icon">&#9744;</span> <span class="icon2">&#50;</span>Марийка</td>
+        </tr>
+        <tr>
+          <td><span class="icon">&#9744;</span> <span class="icon2">&#51;</span>Мунчо</td>
+        </tr>
+
+      </table>
+
+      <table class="table2">
+        <tr>
+          <td><span class="icon">&#9744;</span> <span class="icon2">&#52;</span>Не подкрепям никого</td>
+        </tr>
+      </table>
+
+      <button class="btn-next">Следваща стр.</button>
+    </section>
+
+    <section class="vertical-frame">
+      <div>
+        <h5>Преференция за кандидата на местният дерибей.</h5>
+        <ul>
+          <li>101</li>
+          <li>102</li>
+          <li>103</li>
+          <li>104</li>
+          <li>105</li>
+          <li>106</li>
+          <li>107</li>
+          <li>108</li>
+          <li>109</li>
+          <li>110</li>
+          <li>111</li>
+          <li>112</li>
+          <li>113</li>
+          <li>114</li>
+          <li>115</li>
+          <li>116</li>
+          <li>117</li>
+          <li>118</li>
+        </ul>
+      </div>
+      <button class="btn-watch">Преглед</button>
+    </section>
+
+  </div>
+
+  <!--  Page 3-->
+  <div class="container" id="page3">
+
+    <section class="title2">
+      <h5>РАЙОН 320000000 000000034</h5>
+      <h4> Избори за кмет и общински паразити 01 април 2023 г.</h4>
+      </br>
+      <h3>Преглед на направените избори</h3>
+      <h5>
+        Прегледайте избора си.</br></br>
+        Може да го промените, като натиснете <span>"Промени избора"</span>.</br>
+        Натиснете <span>"Гласуване"</span> и изчакайте разписка.</h5>
+    </section>
+
+    <section>
+      <div class="frame3">
+        <p>000000034</p>
+        <hr>
+        </br>
+        <p>Избори за кмет и общински представители</p>
+        <h3 class='data'></h3>  <!--    3. OЧЗ  -->
+        <h3 class="data"></h3>   <!--   101. Бай Хой -->
+      </div>
+    </section>
+
+      
+    <section> 
+      <button class="btn-select">Промени избора</button> 
+    </section>
+
+      <section>
+        <button class="btn-vote">Гласуване</button>
+      </section>
+
+    </section>
+  </div>
+
+ <!--  Page 4-->
+ <div class="container" id="page4">
+  <section class="title3">
+    <h1>Благодаря Ви!</h1>
+   </br>
+    <h4>Отпечатване на разписката</h4>
+  </section>
+
+  <section class="animation-container">
+     <img class="animated-element" src="./images/receipt.png" alt="receipt">
+  </section>
+</div>
+
+
+<!--  Page 5-->
+<div class="container" id="page5">
+  <img class="receipt-done" src="./images/receipt.png" alt="receipt">
+  <img src="./images/done.png" alt="btn">
+  <section class="title3 title4">
+    <h1>Разписката е готова</h1>  
+      <p>Моля, вземете разписката от Вашето гласуване и я поставете в специална кутия за разписки за машинно гласуване, намираща се на масата пред членовете на СИК.
+      </p>
+  </section>
+</div>
+
+<!--  Page 6-->
+<div class="container" id="page6">
+  <section class="title3 title4">
+    <span><img src="./images/sign.png" alt="sign" width="30px"  height="30px"></span>
+    <h2>  Извадете картата, за да продължите.</h2>  
+  </section>
+
+  <div class ="half-card" ></div>
+  <img class="card-out" src="./images/card.png" alt="card">
+</div>
+
+
+
+
+  <script src="script.js"></script>
+</body>
+
+</html>
