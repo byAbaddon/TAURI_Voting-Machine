@@ -4,7 +4,7 @@
 
 ## How it works:
 - just follow the directions.
-## Short video intro: https://youtu.be/lrzYYyWTpio
+## Short video intro: (https://youtu.be/lrzYYyWTpio)
 
 
 ### Images:
